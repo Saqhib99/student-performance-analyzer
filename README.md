@@ -4,7 +4,7 @@
 
 - **Project title:** Student Performance Analytics System
 - **Program name:** Student Performance Analyzer
-- **Developed by:** Deepanshu
+- **Developed by:** Md Saqhibuddin Ahmed
 
 ## Objective
 
@@ -120,4 +120,4 @@ The program converts raw student records into meaningful performance reports, su
 
 ## Github Repository
 
-Repository: https://github.com/Deepanshu1331/student-performance-analyzer
+Repository: https://github.com/Saqhib99/student-performance-analyzer.git
